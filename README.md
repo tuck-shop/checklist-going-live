@@ -1,5 +1,5 @@
 > Our checklist for all projects that are going live
->Forked from Spatie.
+> Forked from Spatie.
 
 ## 1. Browserstack tests
 - [ ] Desktop: test on latest versions of Chrome, IE/Edge, Firefox, Safari
