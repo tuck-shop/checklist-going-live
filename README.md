@@ -1,7 +1,5 @@
-# A checklist for all projects that are going live
-
-This checklist is used whenever a project is going live at https://spatie.be
-
+> Our checklist for all projects that are going live
+>Forked from Spatie.
 
 ## Support us
 
@@ -31,8 +29,8 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 
 ### Page weight
 - [ ] Evaluate total weight of at least homepage
-- [ ] Open Inspector network/timeline tab to identify heavy assets 
-- [ ] Check if heavy assets are cached 
+- [ ] Open Inspector network/timeline tab to identify heavy assets
+- [ ] Check if heavy assets are cached
 
 ### Audits
 - [ ] Use the Chrome DevTools (in incognito mode) and perform a mobile audit (with throttling) to fix common problems.
@@ -65,7 +63,7 @@ _Repeat this section for all languages_
 
 ## 4. Back end checklist
 - [ ] Open up `/blender`
-- [ ] Remove unused modules from main menu 
+- [ ] Remove unused modules from main menu
 - [ ] Configure Analytics dashboard
 - [ ] Create a new admin and try to log in
 - [ ] Try the password reset flow for existing user
@@ -90,7 +88,7 @@ _Repeat this section for all languages_
 
 ### Google Search Console
 - [ ] Submit all www/non-www http/https variations
-- [ ] Set up non-www https as the preferred domain 
+- [ ] Set up non-www https as the preferred domain
 - [ ] Crawl > Fetch as Google > Submit to index to kickstart index
 
 ### Server
@@ -103,7 +101,7 @@ _Repeat this section for all languages_
 - [ ] Is the server being monitored by our server-monitor?
 
 ### Github
-- [ ] Remove `develop` branch or other stale branches 
+- [ ] Remove `develop` branch or other stale branches
 
 ## About Spatie
 Spatie is a webdesign agency based in Antwerp, Belgium. You'll find an overview of all our open source projects [on our website](https://spatie.be/opensource).
