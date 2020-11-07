@@ -52,7 +52,7 @@
 - [ ] Add redirects from old to new pages if necessary.
 - [ ] Install Let's Encrypt certificate
 - [ ] Check your hostfile to make sure you're looking at the live site
-- [ ] Test all www and non www domains and http and https redirects are working
+- [ ] Test all www and non www domains and http and https redirects are working - use the `checkredirects domain.com` command
 - [ ] Verify that indexing is not prohibited with `x-robots-tag: none` by checking `curl -I https://url | grep 'x-robots-tag'`. Allow robots in `.env`
 - [ ] Check dns propagation with https://www.whatsmydns.net/
 - [ ] Verify Tag Manager / Analytics have been correctly set up
