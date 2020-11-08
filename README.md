@@ -59,7 +59,6 @@
 
 ### Google Search Console
 - [ ] Submit all www/non-www http/https variations
-- [ ] Set up non-www https as the preferred domain
 - [ ] Crawl > Fetch as Google > Submit to index to kickstart index
 
 ### Server
