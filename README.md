@@ -41,11 +41,12 @@
 - [ ] Check structured data for news, events, products,... https://search.google.com/structured-data/testing-tool/
 
 ## 4. Back end checklist
-- [ ] Check user permission in Craft CMS
+- [ ] Check for all user permissions in Craft CMS
 - [ ] Check for any unused plugins
 - [ ] Ask someone to sanity check all .env values
 - [ ] Check any .htaccess files aren't ruining the world
 - [ ] Check the assets are coming from the correct AWS Bucket
+- [ ] Check sitemaps aren't being generated for entries we dont want
 
 
 ## 5. Server, DNS & Services
@@ -56,6 +57,7 @@
 - [ ] Verify that indexing is not prohibited with `x-robots-tag: none` by checking `curl -I https://url | grep 'x-robots-tag'`. Allow robots in `.env`
 - [ ] Check dns propagation with https://www.whatsmydns.net/
 - [ ] Verify Tag Manager / Analytics have been correctly set up
+- [ ] Set up email routing at cloud above (if using) and test
 
 ### Google Search Console
 - [ ] Submit all www/non-www http/https variations
