@@ -22,7 +22,7 @@
 
 ## 3. Check content (with an open console)
 - [ ] Does menu/submenu have a correct active state on every page?
-- [ ] Are 404, 500 and 503 pages provided? Do they provide useful content like 'back to home', search or a navigation tree?
+- [ ] Check the 404 is working properly
 
 ### Meta
 - [ ] Check page titles / descriptions
