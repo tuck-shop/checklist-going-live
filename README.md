@@ -47,6 +47,7 @@
 - [ ] Check any .htaccess files aren't ruining the world
 - [ ] Check the assets are coming from the correct AWS Bucket
 - [ ] Check sitemaps aren't being generated for entries we dont want
+- [ ] Switch from non-cdn to CDN on spaces if using
 
 
 ## 5. Server, DNS & Services
